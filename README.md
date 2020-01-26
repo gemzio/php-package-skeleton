@@ -1,3 +1,5 @@
+This PHP package skeleton is inspired by the awesome [Spatie Package](https://github.com/spatie/skeleton-php) 
+
 # Very short description of the package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/gemzio/:package_name.svg?style=flat-square)](https://packagist.org/packages/gemzio/:package_name)
